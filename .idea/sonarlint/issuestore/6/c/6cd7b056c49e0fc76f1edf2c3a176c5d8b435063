@@ -1,0 +1,48 @@
+
+“
+java:S1192*"QDefine a constant instead of duplicating this literal "application/json" 3 times.(öÿ‹x8÷˜é¬ü1J$12424c1d-c787-47cd-99ab-3a8b02e478a6
+‰
+java:S1192+"FDefine a constant instead of duplicating this literal "UTF-8" 3 times.(£ìÁ¶8÷˜é¬ü1J$f631dc50-c6d0-48be-97ec-f5ffcd39b83e
+“
+java:S1989,"PHandle the following exception that could be thrown by "getWriter": IOException.(¤Šë‚8„™é¬ü1J$cdd35f0d-0b84-4e14-802d-821e7f136e5b
+ 
+java:S19897"XHandle the following exception that could be thrown by "valueOf": NumberFormatException.(˜ïÚûÿÿÿÿ8†™é¬ü1J$58ea370a-da8c-416e-a48d-fc7f1f3bd014
+ 
+java:S1989<"XHandle the following exception that could be thrown by "valueOf": NumberFormatException.(ÏóÁĞûÿÿÿÿ8†™é¬ü1J$6134e4cd-3a77-49d9-9515-3446f80a2393
+“
+java:S1989E"PHandle the following exception that could be thrown by "getWriter": IOException.(¤Šë‚8‡™é¬ü1J$406986f5-2495-4da5-90e2-f855a067549e
+œ
+java:S1989J"YHandle the following exception that could be thrown by "parseInt": NumberFormatException.(ÿãˆÃ8ˆ™é¬ü1J$e3709fca-3d3f-4c39-bdf0-32465e439d73
+ 
+java:S1989Q"XHandle the following exception that could be thrown by "valueOf": NumberFormatException.(˜ïÚûÿÿÿÿ8ˆ™é¬ü1J$e1417137-60c7-4f04-8081-08ec798302de
+ 
+java:S1989V"XHandle the following exception that could be thrown by "valueOf": NumberFormatException.(ÏóÁĞûÿÿÿÿ8‰™é¬ü1J$4b80ff58-30d0-456d-b710-e5cd3b052794
+“
+java:S1989_"PHandle the following exception that could be thrown by "getWriter": IOException.(¤Šë‚8‰™é¬ü1J$9d0418d4-d14c-4767-b12f-a80086da3637
+œ
+java:S1989d"YHandle the following exception that could be thrown by "parseInt": NumberFormatException.(ÿãˆÃ8Š™é¬ü1J$d0bc71f0-658b-4ee0-83bd-a0d86774ded5
+“
+java:S1989f"PHandle the following exception that could be thrown by "getWriter": IOException.(áõÙ¹8Š™é¬ü1J$d9b3a89b-99c5-4720-a72d-381398f4a4d8
+€
+java:S1128">Remove this unused import 'org.example.javaeeweb.dao.BookDao'.(İ­ 8Š™é¬ü1J$3758f58d-520f-4135-a1e2-9c30495c7093
+‡
+java:S1128"DRemove this unused import 'org.example.javaeeweb.dao.ReaderBookDao'.(½—í¹8‹™é¬ü1J$4f1c3b0c-b86b-4e30-abb2-32aac4f56d45
+ˆ
+java:S1128"@Remove this unused import 'org.example.javaeeweb.dao.ReaderDao'.(¿æíòüÿÿÿÿ8‹™é¬ü1J$34dc5ab4-fb98-403d-97c5-4207ed1f23bd
+
+java:S1128"FRemove this unused import 'org.example.javaeeweb.dao.SubscriptionDao'.(‚áùıÿÿÿÿ8‹™é¬ü1J$1365357b-b3bc-49f3-8768-35b49e6d5b09
+
+java:S1128"GRemove this unused import 'org.example.javaeeweb.dao.impl.BookDaoImpl'.(‚ö”Øÿÿÿÿÿ8‹™é¬ü1J$86f4aeae-62b1-4dd1-a2c7-9f1ba67e9e60
+•
+java:S1128	"MRemove this unused import 'org.example.javaeeweb.dao.impl.ReaderBookDaoImpl'.(…ŒÓ¬ÿÿÿÿÿ8‹™é¬ü1J$2a89de1c-716a-437c-a1ca-532aa063324b
+‹
+java:S1128
+"IRemove this unused import 'org.example.javaeeweb.dao.impl.ReaderDaoImpl'.(Ì•Œ%8‹™é¬ü1J$2e065f72-dd82-474d-980c-44841aa89065
+—
+java:S1128"ORemove this unused import 'org.example.javaeeweb.dao.impl.SubscriptionDaoImpl'.(ÀÃÜ’ÿÿÿÿÿ8‹™é¬ü1J$5de50dad-8208-4793-928d-8d8c185654a1
+š
+java:S1128"RRemove this unused import 'org.example.javaeeweb.services.impl.ReaderServiceImpl'.(«Û‚Şÿÿÿÿÿ8‹™é¬ü1J$8e4e901b-62b3-45cb-b28a-2f0b58958efa
+•
+java:S1128"MRemove this unused import 'org.example.javaeeweb.utils.DbConnectionProvider'.(ÚíŠ¹øÿÿÿÿ8‹™é¬ü1J$b348f101-37c8-404b-90c0-eb75b870421b
+‡
+java:S1128"ERemove this unused import 'org.example.javaeeweb.utils.ConnSettings'.(ì «c8‹™é¬ü1J$04afeaee-2519-4a9c-987d-af25b4d0baf8

@@ -1,0 +1,15 @@
+
+
+java:S3655*"7Call "Optional#isPresent()" before accessing the value.(¯˜õÁıÿÿÿÿ8ˆš¿¯û1J$d409bf6f-d453-42af-8ef2-fc71036ea9d6
+z
+java:S3655."7Call "Optional#isPresent()" before accessing the value.(ÄóÊû8ˆš¿¯û1J$0b659f1a-7b84-45da-add5-c409a738be9d
+x
+java:S1128"5Remove this unused import 'lombok.NoArgsConstructor'.(¸¨›8Ÿ‘Œ°û1J$f8ece34b-6b38-4bd5-b4ee-065f07de96be
+
+java:S1128"GRemove this unused import 'org.example.javaeeweb.dao.impl.BookDaoImpl'.(‚ö”Øÿÿÿÿÿ8äÍ¿¯û1J$e4e11a35-f283-4b73-8357-39c80b205da9
+‹
+java:S1128"IRemove this unused import 'org.example.javaeeweb.dao.impl.ReaderDaoImpl'.(Ì•Œ%8äÍ¿¯û1J$42972982-e349-4a45-a3ce-2d84d1d03540
+—
+java:S1128	"ORemove this unused import 'org.example.javaeeweb.dao.impl.SubscriptionDaoImpl'.(ÀÃÜ’ÿÿÿÿÿ8äÍ¿¯û1J$fb683516-f28d-4f28-b262-c31434c3b014
+•
+java:S1128"MRemove this unused import 'org.example.javaeeweb.utils.DbConnectionProvider'.(ÚíŠ¹øÿÿÿÿ8¾¥Ñ¯û1J$069dcdfb-926a-4099-a0cd-d4d28407673c

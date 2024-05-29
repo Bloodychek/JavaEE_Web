@@ -1,0 +1,14 @@
+
+R
+java:S1128"5Remove this unused import 'lombok.NoArgsConstructor'.(¸¨›8×ù‹°û1
+
+java:S1128"GRemove this unused import 'org.example.javaeeweb.dao.impl.BookDaoImpl'.(‚ö”Øÿÿÿÿÿ8½çÆ¯û1J$615af464-83fd-4651-995f-97fa9650b629
+•
+java:S1128	"MRemove this unused import 'org.example.javaeeweb.dao.impl.ReaderBookDaoImpl'.(…ŒÓ¬ÿÿÿÿÿ8½çÆ¯û1J$1a66211a-11a9-416f-815b-0f477bc33954
+‹
+java:S1128
+"IRemove this unused import 'org.example.javaeeweb.dao.impl.ReaderDaoImpl'.(Ì•Œ%8½çÆ¯û1J$c1472836-81e6-4ddd-a337-a6f778445d31
+—
+java:S1128"ORemove this unused import 'org.example.javaeeweb.dao.impl.SubscriptionDaoImpl'.(ÀÃÜ’ÿÿÿÿÿ8½çÆ¯û1J$a7b0c5d8-ee2a-4703-9efc-c513adccf288
+•
+java:S1128"MRemove this unused import 'org.example.javaeeweb.utils.DbConnectionProvider'.(ÚíŠ¹øÿÿÿÿ8â½Ğ¯û1J$91c0b10d-c707-4982-90b8-ad4ef78ea29d

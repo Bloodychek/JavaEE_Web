@@ -1,0 +1,14 @@
+
+	java:S112f"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8ËĞ´ˆû1J$c5f09001-1d37-4e3c-8c11-caaec2b817ff
+—
+java:S2095B"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ÀôÊ×úÿÿÿÿ8€Ğ±û1J$93f68053-9429-4be1-93f7-10091cc10d15
+‘
+java:S20954"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(÷–é8œıÎ±û1J$05427742-90be-40ea-9b26-5fce90a782cf
+i
+java:S2095"GUse try-with-resources or close this "Statement" in a "finally" clause.(é°Áµşÿÿÿÿ8ãŠÑ±û1
+’
+java:S2095["OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ëÊüÛ8ÔĞ´ˆû1J$446d4b6e-b842-4ad8-9836-58064c61cd23
+—
+java:S2095Q"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(¤Øşøÿÿÿÿ8ÔĞ´ˆû1J$6c645079-a024-44ac-a7a3-80387887d47a
+b
+java:S6905"Don't use the query "SELECT *".(šŸ’8×Ğ´ˆû1J$9d62cdb2-9351-4213-8927-3226f581c201
